@@ -12,4 +12,5 @@ Player of the Day is calculated using this formula:
 `playerScore = (.8 * points) + (.3 * rebounds) + (.6 * assists)`
 
 The player with the highest player score will be the Player of the Day. 
-*This can be calculated most accurately if all the games for the day are complete. 
+
+* This can be calculated most accurately if all the games for the day are complete. 
